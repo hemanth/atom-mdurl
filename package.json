@@ -1,0 +1,15 @@
+{
+  "name": "mdurl",
+  "main": "./lib/mdurl",
+  "version": "0.0.0",
+  "description": "Convert url to md",
+  "license": "MIT",
+  "private": true,
+  "repository": "https://github.com/hemanth/atom-mdurl",
+  "engines": {
+    "atom": ">0.61.0"
+  },
+  "dependencies": {
+    "urls-md": "^0.2.1"
+  }
+}
