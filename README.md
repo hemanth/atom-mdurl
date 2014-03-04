@@ -4,6 +4,8 @@ Convert normal url to md style url using Sindre's [urls-md](https://github.com/s
 
 __This package is a gift from myside on his birthday :)__
 
+![](http://i.imgur.com/FwxmQW4.gif)
+
 ## Getting Started
 Install the module with: `apm install mdurl` select some text and hit `ctrl-q`.
 
