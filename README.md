@@ -1,4 +1,4 @@
-# mdurl [![Build Status](https://secure.travis-ci.org/hemanth/mdurl.png?branch=master)](http://travis-ci.org/hemanth/mdurl)
+# mdurl [![Build Status](https://secure.travis-ci.org/hemanth/atom-mdurl.png?branch=master)](http://travis-ci.org/hemanth/atom-mdurl)
 
 Convert normal url to md style url using Sindre's [urls-md](https://github.com/sindresorhus/urls-md)
 
