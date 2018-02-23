@@ -10,6 +10,6 @@
     "atom": ">0.61.0"
   },
   "dependencies": {
-    "urls-md": "^0.2.1"
+    "urls-md": "^1.0.0"
   }
 }
